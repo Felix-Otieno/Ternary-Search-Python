@@ -38,4 +38,5 @@ def ternary_search(low, high, sortArray, element):
 sortArray = [10, 20, 40, 60, 70, 90, 120, 150] 
  
     # Output the result of the position of the element
+    # Element found at index 3
 print(ternary_search(0, len(sortArray) - 1, sortArray, 60)) 
