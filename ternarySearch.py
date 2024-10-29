@@ -3,7 +3,7 @@ Defined a function to find the position of the element in the ternary search and
 Parameters: low, the left end point of the sorted array(first index)
             high, the right end point of the sorted array(last index)
             sortArray, the list of sorted element
-            element, the vlaue to be search thus find its position in the sorted array
+            element, the target value in the search.
 """
 def ternary_search(low, high, sortArray, element):
 
